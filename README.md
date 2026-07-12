@@ -10,9 +10,12 @@
 👉 https://github.com/ganeshkumar1887/AI-Driver-Awarness-System-
 
 ### 🌱 Learning
+- Machine Learning 
 - Deep Learning  
 - NLP  
-- Advanced Data Visualization  
+- Advanced Data Visualization
+- Artificial Intelligence
+
 
 ### 👯 Collaboration
 - Machine Learning & Data Analysis Projects  
