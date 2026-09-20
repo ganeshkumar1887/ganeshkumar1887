@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ganesh Kumar</h1>
 
+
 <h3 align="center">
   🤖 AI/ML Enthusiast | 📊 Data Analyst | 🐍 Python Developer
 </h3>
@@ -296,20 +297,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=ganeshkumar1887&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkumar1887&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -321,71 +308,6 @@ alt="GitHub Streak"
 
 </p>
 
----
-
-# 🐍 GitHub Contribution Snake
-
-<p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ganeshkumar1887/ganeshkumar1887/output/github-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ganeshkumar1887/ganeshkumar1887/output/github-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/ganeshkumar1887/ganeshkumar1887/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-
-</picture>
-
-</p>
-
----
-
-# 👾 Pac-Man Contribution Graph
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/ganeshkumar1887/ganeshkumar1887/output/pacman.svg"
-alt="Pac-Man Contribution Graph"
-width="900"
-/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshkumar1887&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
-alt="Contribution Activity"
-/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=ganeshkumar1887&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-/>
-
-</p>
-
----
 
 # 🎓 Certifications & Learning
 
