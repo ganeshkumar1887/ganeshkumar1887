@@ -197,68 +197,7 @@
 
 # 🚀 Featured Projects
 
-## 🤖 AI Air Canvas
 
-> A computer vision application that allows users to draw on the screen using hand gestures without touching the screen.
-
-### Technologies
-
-`Python` • `OpenCV` • `MediaPipe` • `Computer Vision`
-
-### Features
-
-- ✋ Hand gesture detection
-- 🎨 Gesture-based drawing
-- 🖌️ Multiple colors
-- 🧹 Eraser gesture
-- 🖥️ Real-time camera processing
-
----
-
-## 🎬 Movie Recommendation System
-
-> A content-based movie recommendation system that recommends movies based on similarity between movie features.
-
-### Technologies
-
-`Python` • `Pandas` • `Scikit-Learn` • `Streamlit`
-
-### Features
-
-- 🎥 Movie recommendations
-- 🔎 Similarity-based recommendations
-- 🎨 Netflix-style interface
-- 📊 TMDB dataset
-
----
-
-## 📊 Social Media Sentiment Analysis
-
-> Machine Learning and NLP project for classifying social media content into positive, negative and neutral sentiments.
-
-### Technologies
-
-`Python` • `NLP` • `Pandas` • `Scikit-Learn`
-
-### Features
-
-- 📝 Text preprocessing
-- 🔤 NLP techniques
-- 🤖 Machine Learning classification
-- 📊 Sentiment visualization
-- 📈 Model evaluation
-
----
-
-## 🍽️ Restaurant Recommendation System
-
-> A recommendation system designed to suggest restaurants based on user preferences and restaurant characteristics.
-
-### Technologies
-
-`Python` • `Pandas` • `Machine Learning` • `Flask` • `Streamlit`
-
----
 
 ## 🚗 AI Driver Awareness System
 
@@ -275,21 +214,6 @@
 - 📱 Mobile phone detection
 - 🚨 Real-time alert system
 
----
-
-## ❤️ Heart Disease Prediction
-
-> Machine Learning application for predicting the likelihood of heart disease using healthcare-related features.
-
-### Technologies
-
-`Python` • `Pandas` • `Scikit-Learn` • `Flask`
-
----
-
-## 📚 Student Performance Prediction
-
-> Machine Learning application that predicts student exam performance using academic and behavioral factors.
 
 ### Technologies
 
@@ -299,13 +223,13 @@
 
 # 🔥 GitHub Streak
 
+# 🔥 GitHub Streak
+
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=ganeshkumar1887&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF"
-alt="GitHub Streak"
-/>
-
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Streak"
+  />
 </p>
 
 
