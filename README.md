@@ -94,35 +94,8 @@
 
 ### Machine Learning
 
-`Supervised Learning` • `Unsupervised Learning` • `Reinforcement Learning`
 
-`Regression` • `Classification` • `Clustering`
 
-`Decision Trees` • `Random Forest` • `SVM`
-
-`KNN` • `XGBoost` • `AdaBoost` • `CatBoost`
-
-### Deep Learning
-
-`ANN` • `CNN` • `RNN` • `LSTM` • `GRU`
-
-`Transfer Learning` • `Computer Vision`
-
-### Generative AI
-
-`Transformers` • `LLMs` • `Prompt Engineering`
-
-`Generative AI` • `AI Applications`
-
-### Libraries
-
-`NumPy` • `Pandas` • `Scikit-Learn`
-
-`Matplotlib` • `SciPy`
-
-`TensorFlow` • `Keras` • `PyTorch`
-
-`OpenCV` • `MediaPipe`
 
 ---
 
