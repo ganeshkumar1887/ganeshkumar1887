@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  🤖 AI/ML Enthusiast | 📊 Data Analyst | 🐍 Python Developer
+  🤖 AI/ML Enthusiast | 📊 Data Analyst | Full stack Developer
 </h3>
 
 # 🔥 GitHub Streak
