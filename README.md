@@ -227,11 +227,10 @@
 
 <p align="center">
   <img
-    src="./profile/streak.svg"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshkumar1887&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
 
 # 🎓 Certifications & Learning
 
