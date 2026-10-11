@@ -8,11 +8,14 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshkumar1887&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/ganeshkumar1887">
+    <img
+      src="https://streak-stats.demolab.com/?user=ganeshkumar1887&theme=tokyonight&hide_border=true&user_timezone=Asia/Kolkata"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=B.Tech+CSE+(AI%2FML)+Student;Machine+Learning+%7C+Deep+Learning;Data+Analytics+%7C+Power+BI;Computer+Vision+%7C+NLP;Python+%7C+Java+%7C+React;Building+Real-World+AI+Projects+%F0%9F%9A%80" />
 </p>
