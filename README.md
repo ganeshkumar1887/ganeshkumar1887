@@ -133,20 +133,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,flask" />
 </p>
 
-### Frontend
-
-`HTML5` • `CSS3` • `JavaScript`
-
-`React.js` • `Tailwind CSS`
-
-### Backend
-
-`Python` • `Flask`
-
-`Node.js`
-
----
-
 # 🗄️ Databases
 
 <p align="center">
@@ -163,26 +149,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,androidstudio" />
 </p>
 
-`Jupyter Notebook`
-
-`Google Colab`
-
-`Streamlit`
-
-`Power BI`
-
-`Render`
-
-`AWS`
-
-`Google Cloud`
-
----
 
 # 🚀 Featured Projects
-
-
-
 ## 🚗 AI Driver Awareness System
 
 > A computer vision-based system designed to detect driver drowsiness and mobile phone usage while driving.
