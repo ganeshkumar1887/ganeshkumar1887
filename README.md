@@ -33,6 +33,16 @@ I'm a B.Tech Computer Science Engineering student specializing in AI & ML, with 
 I enjoy learning new technologies, collaborating on projects and turning ideas into working software.
 
 ---
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshkumar1887&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkumar1887&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ganeshkumar1887&theme=tokyonight&hide_border=true&user_timezone=Asia/Kolkata" alt="GitHub Streak"/>
+</p>
 
 ## Technical Skills
 
@@ -178,16 +188,7 @@ An AI-powered educational application designed to help teachers create learning 
 
 ---
 
-## GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshkumar1887&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkumar1887&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ganeshkumar1887&theme=tokyonight&hide_border=true&user_timezone=Asia/Kolkata" alt="GitHub Streak"/>
-</p>
 
 ---
 
